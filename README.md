@@ -23,25 +23,25 @@ Users can configure AI providers, models, search settings, and other components 
 
 ## Work Done
 
-* **Chat Interface**
+* **Chat Interface :**
   Built the user-facing chat experience where users can ask questions and receive answers based on their Drupal content.
 
-* **Knowledge Base & Content Indexing**
+* **Knowledge Base & Content Indexing :**
   Implemented the workflow for indexing Drupal content so that website information can be processed and made available to the assistant.
 
-* **AI Integration**
+* **AI Integration :**
   Integrated the assistant with Drupal's AI framework, allowing it to use the configured AI provider and model for generating responses.
 
-* **Search & Vector Database Integration**
+* **Search & Vector Database Integration :**
   Connected the search and vector database components required for storing embeddings and performing similarity-based retrieval.
 
-* **Conversation History**
+* **Conversation History :**
   Added support for maintaining previous messages so that the assistant can understand the context of an ongoing conversation.
 
-* **Provider & Model Configuration**
+* **Provider & Model Configuration :**
   Worked on making AI providers, models, and their required settings configurable through Drupal's administration interface.
 
-* **Prompt & Context Handling**
+* **Prompt & Context Handling :**
   Implemented the logic for combining the user's question with retrieved content and conversation history before sending it to the AI model.
 
 ## Demo
