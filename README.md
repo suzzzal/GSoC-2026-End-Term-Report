@@ -7,7 +7,7 @@
   <img src="assets/drupal-logo.png" alt="Google Summer of Code" width="500">
 </p>
 
-##INTRO
+## INTRO
 
 I got the opportunity to work on **AI-Powered Knowledge Assistant for Drupal** during Google Summer of Code 2026.
 
