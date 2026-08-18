@@ -19,7 +19,7 @@ The goal of this project was to build an **AI-Powered Knowledge Assistant for Dr
 
 The project integrates with **Drupal AI** and **AI Search** to index website content, retrieve relevant information, and provide that information to an AI model as context. This allows the assistant to generate answers based on the content available on the Drupal website.
 
-Another important goal was to make the system **modular and configurable** through Drupal's administration interface. Users can configure AI providers, models, search settings, and other components according to their requirements, while keeping the implementation aligned with Drupal's existing architecture.
+Users can configure AI providers, models, search settings, and other components according to their requirements, while keeping the implementation aligned with Drupal's existing architecture.
 
 ## Work Done 
 
