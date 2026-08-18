@@ -46,6 +46,9 @@ Users can configure AI providers, models, search settings, and other components 
 
 ## Demo
 
+This video shows the working **Knowledge Assistant chat system** inside Drupal. It shows how a user can ask questions and get answers from the assistant based on the Drupal content. It shows the basic chat flow and how the assistant responds.
+
+
 ## Future Work
 
 * **Performance Improvements :**
