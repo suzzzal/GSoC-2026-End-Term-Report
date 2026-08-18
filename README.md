@@ -48,22 +48,22 @@ Users can configure AI providers, models, search settings, and other components 
 
 ## Future Work
 
-* **Performance Improvements**
+* **Performance Improvements :**
   Optimize indexing, retrieval, and response generation to make the assistant faster and more efficient.
 
-* **User Privacy & Data Security**
+* **User Privacy & Data Security :**
   Improve how Drupal site content and user data are handled to ensure sensitive information remains protected throughout the retrieval and AI workflow.
 
-* **Permission-Aware Retrieval**
+* **Permission-Aware Retrieval :**
   Ensure users can only retrieve information from Drupal content they are authorized to access.
 
-* **Improved Error Handling**
+* **Improved Error Handling :**
   Provide clearer error messages and better recovery when providers, models, indexing, or external services are unavailable.
 
-* **Testing & Reliability**
+* **Testing & Reliability :**
   Add more automated tests and improve coverage for different configurations and edge cases.
 
-* **User Experience Improvements**
+* **User Experience Improvements :**
   Continue improving the chat interface, conversation handling, and overall usability of the assistant.
 
 ## Helpful Links
