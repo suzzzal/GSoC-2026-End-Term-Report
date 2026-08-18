@@ -26,6 +26,12 @@ The project integrates with **Drupal AI** and **AI Search** to index website con
 
 Users can configure AI providers, models, search settings, and other components according to their requirements, while keeping the implementation aligned with Drupal's existing architecture.
 
+## Helpful Links
+
+* **Project Page on Drupal.org:** [AI Knowledge Assistant](https://www.drupal.org/project/ai_knowledge_assistant)
+* **Project Releases:** 
+* **Project Repository on GitLab:** 
+
 ## Work Done
 
 * **Chat Interface :**
@@ -81,13 +87,6 @@ This video shows the **Build and Index** feature of the Knowledge Assistant. At 
 
 * **User Experience Improvements :**
   Continue improving the chat interface, conversation handling, and overall usability of the assistant.
-
-## Helpful Links
-
-* **Project Page on Drupal.org:** [AI Knowledge Assistant](https://www.drupal.org/project/ai_knowledge_assistant)
-* **Project Releases:** 
-* **Project Repository on GitLab:** 
-* **Project Repository on GitHub:** 
 
 ## My Learnings
 
