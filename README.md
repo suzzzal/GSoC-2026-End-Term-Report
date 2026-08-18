@@ -115,7 +115,7 @@ I am especially grateful for the support, guidance, and encouragement provided t
 
 ## Conclusion
 
-I really enjoyed working on the **AI Knowledge Assistant for Drupal** during GSoC 2026. This project gave me the opportunity to explore a completely new area, work with a large open-source codebase, and turn my ideas into a working Drupal module. Understanding the requirements, debugging issues and improving the assistant, every stage taught me something new.
+I am really enjoying working on the **AI Knowledge Assistant for Drupal** during GSoC 2026. This project gave me the opportunity to explore a completely new area, work with a large open-source codebase, and turn my ideas into a working Drupal module. Understanding the requirements, debugging issues and improving the assistant, every stage taught me something new.
 
 GSoC 2026 has been a really memorable experience for me, and I hope to continue learning, contributing, and staying connected with the open-source community.
 
