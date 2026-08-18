@@ -26,6 +26,9 @@ The project integrates with **Drupal AI** and **AI Search** to index website con
 
 Users can configure AI providers, models, search settings, and other components according to their requirements, while keeping the implementation aligned with Drupal's existing architecture.
 
+<img width="1410" height="155" alt="image" src="https://github.com/user-attachments/assets/49e065cd-8bda-46c5-9e63-6d47df3dd0d5" />
+
+
 ## Helpful Links
 
 * **Project Page on Drupal.org:** [AI Knowledge Assistant](https://www.drupal.org/project/ai_knowledge_assistant)
