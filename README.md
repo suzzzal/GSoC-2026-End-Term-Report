@@ -49,9 +49,6 @@ Users can configure AI providers, models, search settings, and other components 
 * **Conversation History :**
   Added support for maintaining previous messages so that the assistant can understand the context of an ongoing conversation.
 
-* **Provider & Model Configuration :**
-  Worked on making AI providers, models, and their required settings configurable through Drupal's administration interface.
-
 * **Prompt & Context Handling :**
   Implemented the logic for combining the user's question with retrieved content and conversation history before sending it to the AI model.
 
