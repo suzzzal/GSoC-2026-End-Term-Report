@@ -88,7 +88,18 @@ This video shows the **Build and Index** feature of the Knowledge Assistant. At 
 * **User Experience Improvements :**
   Continue improving the chat interface, conversation handling, and overall usability of the assistant.
 
-## My Learnings
+## What I Learned
+
+GSoC 2026 has been a really big learning experience for me, both technically and personally.It gave me the freedom to experiment with my ideas and try different approaches, which I really enjoyed. Not everything worked on the first try, but experimenting with different solutions taught me a lot and helped me become more comfortable with making decisions on my own.In the beginning, I had to learn a lot about **Drupal**, its structure, development workflow, and how things are managed in a large open-source project. Working in a proper development environment also helped me understand how professional developers write, organize, and maintain their code.
+
+One of the biggest things I learned was **debugging**. Earlier, whenever I got an error, I would sometimes just try different fixes until something worked. During this project, I learned to actually understand the error, check logs, follow the code flow, and find the real reason behind the problem.
+
+I also learned how important **documentation** is, especially in open source. Writing things down properly makes it much easier for someone else to understand the work and continue it in the future. I also got to interact with my mentor and other Drupal contributors, which helped me improve my communication and learn how to collaborate with people working on the same project.
+
+I would also like to thank my mentor **Ahmed Aziz Abbassi** once again. His guidance, patience, and feedback helped me a lot throughout the project. Whenever I was stuck or unsure about something, having someone experienced to discuss it with made things much easier.
+
+Overall, GSoC taught me much more than just how to build a Drupal module. I learned how to work on a real open-source project, collaborate with others, debug properly, write better code, manage my time, take responsibility for my work, and most importantly, keep learning from my mistakes.
+
 
 ## Acknowledgment for my Mentor
 
