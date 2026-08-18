@@ -13,7 +13,12 @@ I got the opportunity to work on **AI-Powered Knowledge Assistant for Drupal** d
 
 From exploring Drupal's AI ecosystem for the first time to building a knowledge assistant integrated for Drupal, these few months have been an incredible learning experience. This report summarizes my GSoC journey, the work I completed, the challenges I faced, and what I learned along the way.
 
-## Project Goals & Details
+## Project Details & Goals
+
+<strong>Project Name:</strong> AI Knowledge Assistant <br>
+<strong>Organization:</strong> <a href="https://www.drupal.org">Drupal Association</a> <br>
+<strong>Mentor:</strong> <a href="https://www.drupal.org/u/azizos">Ahmed Aziz Abbassi</a> <br>
+<strong>Contributor:</strong> <a href="https://www.drupal.org/u/sujal-kshatri">Sujal Kshatri</a> <br>
 
 The goal of this project was to build an **AI-Powered Knowledge Assistant for Drupal** that can understand and retrieve information from a Drupal website and provide contextual answers using AI. The assistant is designed to make information available across a Drupal site easier to discover through natural language conversations.
 
