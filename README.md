@@ -15,7 +15,7 @@ From exploring Drupal's AI ecosystem for the first time to building a knowledge 
 
 ## Project Details & Goals
 
-<strong>Project Name:</strong> AI Knowledge Assistant <br>
+<strong>Project:</strong> <a href="[https://www.drupal.org](https://summerofcode.withgoogle.com/programs/2026/projects/8G1nYIR8)">AI Knowledge Assistant</a> <br>
 <strong>Organization:</strong> <a href="https://www.drupal.org">Drupal Association</a> <br>
 <strong>Mentor:</strong> <a href="https://www.drupal.org/u/azizos">Ahmed Aziz Abbassi</a> <br>
 <strong>Contributor:</strong> <a href="https://www.drupal.org/u/sujal-kshatri">Sujal Kshatri</a> <br>
