@@ -52,7 +52,8 @@ https://github.com/user-attachments/assets/e642ac09-36d7-4872-a0bc-77b0966dbf77
 This video shows the working **Knowledge Assistant chat system** inside Drupal. It shows how a user can ask questions and get answers from the assistant based on the Drupal content. It shows the basic chat flow and how the assistant responds.
 
 - Building the Knowledge System
-   <video src="assets/demo-vid1.mp4" controls width="800"></video>
+
+https://github.com/user-attachments/assets/b57428af-eba4-4e30-ad25-fbd03436018b
 
 This video shows the **Build and Index** feature of the Knowledge Assistant. At the beginning, there is no server or index available, and after clicking the button, they are automatically created and configured for indexing then we can see the assistant accessing my Drupal site and answering questions using the information from the site.
 
