@@ -105,4 +105,13 @@ I would also like to sincerely thank the Drupal community, the Drupal GSoC team,
 I am especially grateful for the support, guidance, and encouragement provided throughout the program. GSoC gave me the opportunity to learn from experienced developers, explore new areas, and work on something that can continue to be useful to the Drupal community. I am really thankful to everyone who made this journey possible and helped make my GSoC experience so memorable.
 
 
-## About ME & My Mentor 
+## Conclusion
+
+I really enjoyed working on the **AI Knowledge Assistant for Drupal** during GSoC 2026. This project gave me the opportunity to explore a completely new area, work with a large open-source codebase, and turn my ideas into a working Drupal module. Understanding the requirements, debugging issues and improving the assistant, every stage taught me something new.
+
+GSoC 2026 has been a really memorable experience for me, and I hope to continue learning, contributing, and staying connected with the open-source community.
+
+**Thanks and Regards,**
+
+**Sujal Kshatri**
+
