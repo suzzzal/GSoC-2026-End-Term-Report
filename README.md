@@ -27,10 +27,6 @@ Another important goal was to make the system **modular and configurable** throu
 
 ## Future Work
 
-## Helpful Links 
-
-Based on the project currently listed on Drupal.org as **AI Knowledge Assistant**, I’d structure the section like this. ([Drupal.org][1])
-
 ## Helpful Links
 
 * **Project Page on Drupal.org:** [AI Knowledge Assistant](https://www.drupal.org/project/ai_knowledge_assistant)
