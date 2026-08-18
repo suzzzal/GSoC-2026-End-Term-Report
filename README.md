@@ -77,7 +77,7 @@ Users can configure AI providers, models, search settings, and other components 
 
 ## Acknowledgment for my Mentor
 
-I would like to give a **special thanks to my mentor, Azizi**, for mentoring me throughout this journey and always being there whenever I needed help. He gave me the freedom to work at my own pace while making sure I always had the right guidance whenever I got stuck.
+I would like to give a **special thanks to my mentor, Aziz**, for mentoring me throughout this journey and always being there whenever I needed help. He gave me the freedom to work at my own pace while making sure I always had the right guidance whenever I got stuck.
 
 He has helped me a lot in building this module, from clearing my doubts and helping me understand the Drupal ecosystem to giving me some of the **best advice throughout the project**. I really appreciate the patience, support, and trust he showed in my work and the way he encouraged me to explore and solve problems on my own.
 
