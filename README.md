@@ -70,6 +70,12 @@ This video shows the **Build and Index** feature of the Knowledge Assistant. At 
 
 ## Future Work
 
+* **Milvus compatibility**
+  Make the module compatible with the Milvus provider for vector database and indexing. 
+
+* **Chat Session Persistence and Logout Behavior**
+  Modules currently uses browser storage to save the chat sessions, but the chat storage disappears when the user logs out, this need a fix.
+
 * **Performance Improvements :**
   Optimize indexing, retrieval, and response generation to make the assistant faster and more efficient.
 
@@ -87,6 +93,13 @@ This video shows the **Build and Index** feature of the Knowledge Assistant. At 
 
 * **User Experience Improvements :**
   Continue improving the chat interface, conversation handling, and overall usability of the assistant.
+
+### Why I Chose Pinecone Over Milvus
+
+I decided to use Pinecone instead of Milvus because with Pinecone the setup was very straightforward, I only needed the database name and host URL, and the vector database was ready to use. On the other hand, setting up Milvus was becoming quite tricky and time-consuming. At that point, I was repeatedly running into compatibility issues with AI Search and SQLite on my Windows environment. I didn't want to spend a significant amount of time troubleshooting the setup, especially when I could use Pinecone and continue working on the main functionality of the project, so I decided to go with Pinecone for the current implementation.
+
+Milvus is still part of my original plan, and I would like to add Milvus compatibility to the module as future work after GSoC.
+
 
 ## Acknowledgment for my Mentor
 
