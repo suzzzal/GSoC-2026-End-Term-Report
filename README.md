@@ -70,10 +70,10 @@ This video shows the **Build and Index** feature of the Knowledge Assistant. At 
 
 ## Future Work
 
-* **Milvus compatibility**
+* **Milvus compatibility :**
   Make the module compatible with the Milvus provider for vector database and indexing. 
 
-* **Chat Session Persistence and Logout Behavior**
+* **Chat Session Persistence and Logout Behavior :**
   Modules currently uses browser storage to save the chat sessions, but the chat storage disappears when the user logs out, this need a fix.
 
 * **Performance Improvements :**
