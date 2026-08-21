@@ -32,8 +32,8 @@ Users can configure AI providers, models, search settings, and other components 
 ## Helpful Links
 
 * **Project Page on Drupal.org:** [AI Knowledge Assistant](https://www.drupal.org/project/ai_knowledge_assistant)
-* **Project Releases:** 
-* **Project Repository on GitLab:** 
+* **Project Repository on GitLab:** [Gitlab Link](https://git.drupalcode.org/project/ai_knowledge_assistant/-/tree/gsoc-endterm?ref_type=heads)
+
 
 ## Work Done
 
